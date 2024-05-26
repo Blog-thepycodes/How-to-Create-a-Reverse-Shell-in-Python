@@ -1,0 +1,2 @@
+This tutorial is for educational purposes only. Creating and using reverse shells without proper authorization is illegal and unethical. 
+Always ensure you have explicit permission before testing on any system.
